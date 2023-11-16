@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(105, 7, 7);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.profileimage {
+    width: 200px;
+}
+.profile h2 {
+    color: whitesmoke;
+}
+.profile h5 {
+    color: bisque;
+    transform: translateY(-5px);
+}
+.biodata {
+    background-color: #fff;
+}
